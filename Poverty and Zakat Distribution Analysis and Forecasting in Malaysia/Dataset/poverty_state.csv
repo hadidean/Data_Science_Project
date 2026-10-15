@@ -1,0 +1,128 @@
+state,Year,poverty_absolute
+Johor,1/1/2007,1.5
+Johor,1/1/2009,1.3
+Johor,1/1/2012,0.9
+Johor,1/1/2014,0
+Johor,1/1/2016,0
+Johor,1/1/2019,3.9
+Johor,1/1/2020,5.9
+Johor,1/1/2022,4.6
+Kedah,1/1/2007,3.1
+Kedah,1/1/2009,5.3
+Kedah,1/1/2012,1.7
+Kedah,1/1/2014,0.3
+Kedah,1/1/2016,0.2
+Kedah,1/1/2019,8.8
+Kedah,1/1/2020,12.7
+Kelantan,1/1/2007,7.2
+Kelantan,1/1/2009,4.8
+Kelantan,1/1/2012,2.7
+Kelantan,1/1/2014,0.9
+Kelantan,1/1/2016,0.4
+Kelantan,1/1/2019,12.4
+Kelantan,1/1/2020,21.2
+Kelantan,1/1/2022,13.2
+Melaka,1/1/2007,1.8
+Melaka,1/1/2009,0.5
+Melaka,1/1/2012,0.1
+Melaka,1/1/2014,0.1
+Melaka,1/1/2016,0
+Melaka,1/1/2019,3.9
+Melaka,1/1/2020,6.1
+Melaka,1/1/2022,4.2
+Negeri Sembilan,1/1/2007,1.3
+Negeri Sembilan,1/1/2009,0.7
+Negeri Sembilan,1/1/2012,0.5
+Negeri Sembilan,1/1/2014,0.4
+Negeri Sembilan,1/1/2016,0.2
+Negeri Sembilan,1/1/2019,4.3
+Negeri Sembilan,1/1/2020,6.5
+Negeri Sembilan,1/1/2022,4.4
+Pahang,1/1/2007,1.7
+Pahang,1/1/2009,2.1
+Pahang,1/1/2012,1.3
+Pahang,1/1/2014,0.7
+Pahang,1/1/2016,0.2
+Pahang,1/1/2019,4.3
+Pahang,1/1/2020,8.8
+Pahang,1/1/2022,6.3
+Perak,1/1/2007,3.4
+Perak,1/1/2009,3.5
+Perak,1/1/2012,1.5
+Perak,1/1/2014,0.7
+Perak,1/1/2016,0.2
+Perak,1/1/2019,7.3
+Perak,1/1/2020,11.4
+Perak,1/1/2022,7.5
+Perlis,1/1/2007,6.8
+Perlis,1/1/2009,6
+Perlis,1/1/2012,1.9
+Perlis,1/1/2014,0.2
+Perlis,1/1/2016,0.1
+Perlis,1/1/2019,3.9
+Perlis,1/1/2020,9.9
+Perlis,1/1/2022,4
+Pulau Pinang,1/1/2007,1.4
+Pulau Pinang,1/1/2009,1.2
+Pulau Pinang,1/1/2012,0.6
+Pulau Pinang,1/1/2014,0.3
+Pulau Pinang,1/1/2016,0.1
+Pulau Pinang,1/1/2019,1.9
+Pulau Pinang,1/1/2020,3.3
+Pulau Pinang,1/1/2022,2
+Sabah,1/1/2007,16.4
+Sabah,1/1/2009,19.7
+Sabah,1/1/2012,8.1
+Sabah,1/1/2014,4
+Sabah,1/1/2016,2.9
+Sabah,1/1/2019,19.5
+Sabah,1/1/2020,25.3
+Sabah,1/1/2022,19.7
+Sarawak,1/1/2007,4.2
+Sarawak,1/1/2009,5.3
+Sarawak,1/1/2012,2.4
+Sarawak,1/1/2014,0.9
+Sarawak,1/1/2016,0.6
+Sarawak,1/1/2019,9
+Sarawak,1/1/2020,12.9
+Sarawak,1/1/2022,10.8
+Selangor,1/1/2007,0.7
+Selangor,1/1/2009,0.7
+Selangor,1/1/2012,0.4
+Selangor,1/1/2014,0.2
+Selangor,1/1/2016,0
+Selangor,1/1/2019,1.2
+Selangor,1/1/2020,1.7
+Selangor,1/1/2022,1.5
+Terengganu,1/1/2007,6.4
+Terengganu,1/1/2009,4
+Terengganu,1/1/2012,1.7
+Terengganu,1/1/2014,0.6
+Terengganu,1/1/2016,0.4
+Terengganu,1/1/2019,6.1
+Terengganu,1/1/2020,12
+Terengganu,1/1/2022,6.2
+W.P. Kuala Lumpur,1/1/2007,1.5
+W.P. Kuala Lumpur,1/1/2009,0.7
+W.P. Kuala Lumpur,1/1/2012,0.8
+W.P. Kuala Lumpur,1/1/2014,0.1
+W.P. Kuala Lumpur,1/1/2016,0
+W.P. Kuala Lumpur,1/1/2019,0.2
+W.P. Kuala Lumpur,1/1/2020,0.4
+W.P. Kuala Lumpur,1/1/2022,1.4
+W.P. Labuan,1/1/2007,4.2
+W.P. Labuan,1/1/2009,4.3
+W.P. Labuan,1/1/2012,1.1
+W.P. Labuan,1/1/2014,1.1
+W.P. Labuan,1/1/2016,0
+W.P. Labuan,1/1/2019,3.1
+W.P. Labuan,1/1/2020,5.2
+W.P. Labuan,1/1/2022,2.5
+W.P. Putrajaya,1/1/2007,0
+W.P. Putrajaya,1/1/2009,0
+W.P. Putrajaya,1/1/2012,0
+W.P. Putrajaya,1/1/2014,0
+W.P. Putrajaya,1/1/2016,0
+W.P. Putrajaya,1/1/2019,0.4
+W.P. Putrajaya,1/1/2020,0.2
+W.P. Putrajaya,1/1/2022,0.1
